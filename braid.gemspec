@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %Q{#{ENV["GEM_PREFIX"] ? ENV["GEM_PREFIX"] : ""}braid}
-  s.version = "0.6.1"
+  s.version = "0.6.2"
 
   s.specification_version = 2 if s.respond_to? :specification_version=
 
